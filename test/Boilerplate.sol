@@ -1,5 +1,4 @@
 // SPDX-License-Identifier: MIT
-// Modified version of https://github.com/zeroknots/boilerplate.sol/blob/main/test/Boilerplate.t.sol
 
 pragma solidity ^0.8.15;
 
